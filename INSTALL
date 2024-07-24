@@ -1,0 +1,4 @@
+```Description```
+- from the root directory type make clean build
+- after that types ./run.sh
+- it will run the sample for you

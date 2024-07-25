@@ -1,0 +1,34 @@
+./bin/sorting_rush
+Bubble Sort begins...
+Bubble Sort completed in 220.740 ms
+Quick Sort begins...
+Quick Sort completed in 16.792 ms
+Merge Sort begins...
+Merge Sort completed in 446.450 ms
+Radix Sort begins...
+Radix Sort completed in 10.095 ms
+Insertion Sort begins...
+Insertion Sort completed in 106.185 ms
+Selection Sort begins...
+Selection Sort completed in 106.705 ms
+Heap Sort begins...
+Heap Sort completed in 22.786 ms
+Cocktail Sort begins...
+Cocktail Sort completed in 138.482 ms
+Shell Sort begins...
+Shell Sort completed in 9.923 ms
+Comb Sort begins...
+Comb Sort completed in 8.259 ms
+Total number of elements sorted: 1048576
+
+Ranking of sorting algorithms:
+1. Comb Sort: 8.259 ms
+2. Shell Sort: 9.923 ms
+3. Radix Sort: 10.095 ms
+4. Quick Sort: 16.792 ms
+5. Heap Sort: 22.786 ms
+6. Insertion Sort: 106.185 ms
+7. Selection Sort: 106.705 ms
+8. Cocktail Sort: 138.482 ms
+9. Bubble Sort: 220.740 ms
+10. Merge Sort: 446.450 ms

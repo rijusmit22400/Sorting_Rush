@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
-make clean build
 
-make run ARGS="-p TFpFX"
+make run > data/output.txt

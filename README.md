@@ -1,6 +1,6 @@
 # This is a CUDA project
 
-This CUDA code works on several libraries and to import and perform vector operations to make an image grayscale.
+This CUDA code works that calculates efficiency of sorting Algorithims, by sorting matrices.
 
 ## Project Description
 
